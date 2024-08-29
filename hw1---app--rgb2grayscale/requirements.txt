@@ -1,0 +1,4 @@
+dash
+opencv-python
+plotly
+numpy

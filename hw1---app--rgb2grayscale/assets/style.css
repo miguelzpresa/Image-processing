@@ -1,0 +1,38 @@
+body {
+    background-image: url('/assets/stitch.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    color: #1a1919; /* Amarillo */
+    font-size: 36px;
+}
+
+h2 {
+    color: #7f1bf1; /* Gris oscuro */
+    font-size: 24px;
+}
+
+a {
+    color: #ff4800; /* Amarillo */
+    font-size: 18px;
+}
+
+.upload-text {
+    color: #22d12b; /* Gris */
+    font-size: 16px;
+}
+
+.output-text {
+    color: #6200ff; /* Amarillo */
+    font-size: 20px;
+}
+
+.error-text {
+    color: #FF0000; /* Rojo */
+    font-size: 20px;
+}
